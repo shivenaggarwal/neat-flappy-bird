@@ -24,6 +24,6 @@ This code uses search and optimise technique called genetic algorithm which crea
 ## Screenshots
 
 Running
-![running]()
+![running](https://user-images.githubusercontent.com/97015991/264217835-f9719a48-5cad-473f-b077-e9e69bb5204c.png)
 Output
-![output]()
+![output](https://user-images.githubusercontent.com/97015991/264217857-71a1c0e0-4c6b-4486-89bc-2744491598d0.png)
